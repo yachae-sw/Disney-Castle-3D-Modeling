@@ -26,10 +26,10 @@ https://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/1ff7fd01-
 
 - 여러 방면의 도면을 하나의 3D 형태로 보아 **재구성 하는 능력** 및 **CATIA 프로그램 숙련도**를 크게 올렸습니다.
 - 학과 발표에서 세세한 모델링 노력을 인정받아 **1등**을 차지하여 팀 전체로 A+를 받았습니다.
-  ### **<디즈니 성 정면>**
-  ![Front](https://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/b262ae7d-0eea-48d2-971e-fe78c4a1de55)
-  ### **<디즈니 성 후면>**
-  ![Back](https://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/78a970e8-c18b-4577-a492-f4e2c7fab512)
+  
+  | 디즈니 성 정면 | 디즈니 성 후면 |
+  |---|---|
+  | <img src="https://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/b262ae7d-0eea-48d2-971e-fe78c4a1de55" width="550"> | <img src="https://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/78a970e8-c18b-4577-a492-f4e2c7fab512" width="600"> |
 
 ## 프로젝트 후기
 
