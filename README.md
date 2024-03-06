@@ -1,5 +1,7 @@
 # Desney-Castle-3D-Modeling
 
+https://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/1ff7fd01-bc30-4975-b60f-c48d8ae33b78
+
 ## 프로젝트 소개
 
 - **프로젝트 목표 :** CATIA 프로그램을 사용하여 **3D 모델링 능력을 향상**하고,
@@ -25,7 +27,7 @@
   ### **<디즈니 성 정면>**
   ![Front](https://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/b262ae7d-0eea-48d2-971e-fe78c4a1de55)
   ### **<디즈니 성 후면>**
-  ![Back](ttps://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/1b0fc300-0a4b-4875-960c-d29f48a77dac)
+  ![Back](https://github.com/yachae-sw/Disney-Castle-3D-Modeling/assets/93850398/78a970e8-c18b-4577-a492-f4e2c7fab512)
 
 ## 프로젝트 후기
 
